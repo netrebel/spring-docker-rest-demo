@@ -5,7 +5,7 @@
 ### Gradle
 
 ```
-gradle bootRun
+./gradlew bootRun
 ```
 
 ### Jar
